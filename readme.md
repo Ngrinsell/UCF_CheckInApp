@@ -1,4 +1,4 @@
-# Disussion Forum
+# Check In App
 I headed the efforts for the website front end (HTML, CSS, JS) and assisted with the website back end (Python).
 
 ## Setup
